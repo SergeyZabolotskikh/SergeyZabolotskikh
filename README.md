@@ -31,3 +31,9 @@
 - 📧 Email: sergey.zabolotskikh@gmail.com
 
 ---
+
+## 📄 Resume
+
+[Download my CV](https://github.com/SergeyZabolotskikh/SergeyZabolotskikh/blob/main/Sergey_Zabolotskikh_Software_Engineering_Manager.pdf)
+
+---
