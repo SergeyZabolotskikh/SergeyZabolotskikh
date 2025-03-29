@@ -26,10 +26,10 @@
 - [User Onboarding System (Microservices-Based)](https://github.com/SergeyZabolotskikh/user-onboarding-system)
   A modular user onboarding system built with Java 21, Spring Boot, PostgreSQL, and Docker, designed with clean architecture and containerized deployment in mind.
   🧩 Microservices Included:
-      1. User Management Service – Handles user registration, role assignment, and profile updates. [not started yet]
-      2. Session Management Service – Manages JWT token creation, session validation, and expiry tracking. [not started yet]
-      3. OAuth Service – Acts as an OAuth 2.0 Authorization Server for issuing and validating tokens to third-party clients. [not started yet]
-      4. DB Initializer – Lightweight Flyway-based service that sets up the schema and inserts sample data. [working, but heave image, need to resolve it]
+  1. User Management Service – Handles user registration, role assignment, and profile updates. [not started yet]
+  2. Session Management Service – Manages JWT token creation, session validation, and expiry tracking. [not started yet]
+  3. OAuth Service – Acts as an OAuth 2.0 Authorization Server for issuing and validating tokens to third-party clients. [not started yet]
+  4. DB Initializer – Lightweight Flyway-based service that sets up the schema and inserts sample data. [working, but the image is huge, need to resolve it]
 
   ✅ Built for portability, testability, and easy deployment via Docker Compose.
 ---
