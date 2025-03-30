@@ -8,11 +8,11 @@
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Java, Python, SQL  
-- **Frameworks:** Spring Boot, REST APIs, JUnit, BDD  
-- **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins, Redis, Kafka  
-- **Architecture:** Microservices, SaaS, Multi-Tenant Systems, Distributed Systems  
-- **Tools:** Git, IntelliJ IDEA, SonarQube, Postman, Jupyter  
+- **Languages:** Java, Python, SQL,...
+- **Frameworks:** Spring Boot, REST APIs, FastAPI, JUnit, BDD,...
+- **DevOps & Cloud:** AWS, Docker, Kubernetes, Jenkins, Redis, Kafka,... 
+- **Architecture:** Microservices, SaaS, Multi-Tenant Systems, Distributed Systems,...
+- **Tools:** Git, IntelliJ IDEA, SonarQube, Postman, Jupyter,...  
 - **Mindset:** Always learning, always improving
 
 ---
