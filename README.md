@@ -1,4 +1,4 @@
-# Hi, I'm Sergey 👋
+# Aloha!, I'm Sergey 👋
 
 🎯 Engineering Manager | Senior Software Development Team Lead | Technical Project Manager | Agile Delivery Specialist  
 📍 Based in Israel | Open to new opportunities  
