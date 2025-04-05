@@ -19,7 +19,7 @@
 
 ## 📂 Featured Projects
 
-- [Customer Churn Prediction (ML Project)](https://github.com/SergeyZabolotskikh/churn-prediction-ml)  
+- [Customer Churn Prediction (ML Project)](https://github.com/SergeyZabolotskikh/churn-prediction-ml)
   A machine learning pipeline using Decision Tree, Random Forest, and KNN in Python to predict customer churn.  
   Includes data preprocessing, model training, evaluation, and prediction on new incoming data.
   
@@ -33,7 +33,7 @@
 
   ✅ Built for portability, testability, and easy deployment via Docker Compose.
 
-- [System Design Topics Implementation)](https://github.com/SergeyZabolotskikh/system-design-case-studies/)
+- [System Design Topics Implementation](https://github.com/SergeyZabolotskikh/system-design-case-studies/)
   Some system design implementation with extententions
 ---
 
