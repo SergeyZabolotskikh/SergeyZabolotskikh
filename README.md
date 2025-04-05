@@ -34,7 +34,7 @@
   ✅ Built for portability, testability, and easy deployment via Docker Compose.
 
 - [System Design Topics Implementation](https://github.com/SergeyZabolotskikh/system-design-case-studies/)
-  Some system design implementation with extententions
+  Some software system design implementations with extensions
 ---
 
 ## 📫 Let's Connect
