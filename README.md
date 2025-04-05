@@ -46,3 +46,13 @@
 [Download my CV](https://github.com/SergeyZabolotskikh/SergeyZabolotskikh/blob/main/Sergey_Zabolotskikh_Software_Engineering_Manager.pdf)
 
 ---
+
+## 🔒 Repository Status
+
+This repository is **public for portfolio and learning purposes only**.
+
+✅ View and download the code  
+❌ No write access  
+❌ Changes are not accepted
+
+If you’d like to use or extend this project — feel free to fork it!
