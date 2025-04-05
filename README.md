@@ -32,6 +32,9 @@
   4. DB Initializer – Lightweight Flyway-based service that sets up the schema and inserts sample data. [working, but the image is huge, need to resolve it]
 
   ✅ Built for portability, testability, and easy deployment via Docker Compose.
+
+- [System Design Topics Implementation)](https://github.com/SergeyZabolotskikh/system-design-case-studies/)
+  Some system design implementation with extententions
 ---
 
 ## 📫 Let's Connect
